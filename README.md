@@ -43,14 +43,8 @@ Halaman Utama:
 
 ![Halaman Utama](/../master/sc/home.jpg?raw=true "home")
 
-Halaman Registrasi customer dilengkapi upload foto selfie:
-
-![Halaman Registrasi](/../master/sc/profile.jpg?raw=true "register")
-
 Halaman Admin:
 
 ![Halaman Admin](/../master/sc/admin.jpg?raw=true "admin")
 
-Halaman Customer:
 
-![Halaman Customer](/../master/sc/profile.jpg?raw=true "profile")
